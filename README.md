@@ -7,5 +7,5 @@ This minimalistic sandbox is there to help you quickly create [minimal reproduci
 You can run the example locally by cloning this repository and running the following command:
 
 ```bash
-npm start
+npm install && npm start
 ```
